@@ -4,4 +4,4 @@
 * Jupyter Notebook (Anaconda)
 
 #### Notes : Notes & Exercises from lecture (Explained with self written annotations)
-#### Assignments : Actual Assignments from the course
+#### Assignments : Assignments from the course
